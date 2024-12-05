@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="VentanaPrincipal.Java:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/VentanaPrincipal_Java_jar</output-path>
+    <root id="archive" name="VentanaPrincipal.Java.jar">
+      <element id="module-output" name="VentanaPrincipal.Java" />
+    </root>
+  </artifact>
+</component>
